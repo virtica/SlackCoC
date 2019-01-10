@@ -1,0 +1,2 @@
+# SlackCoC
+Code of Conduct
